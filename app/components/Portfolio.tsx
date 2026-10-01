@@ -1,9 +1,9 @@
 const projects = [
   {
-    category: "Salon",
-    title: "Salon & Beauty Website",
+    category: "3D Printers",
+    title: "3D craft and gift",
     description:
-      "A modern website with services, gallery, contact details and appointment booking.",
+      "E-commerce website to sell products online",
   },
   {
     category: "Healthcare",
